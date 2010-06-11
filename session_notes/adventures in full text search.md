@@ -1,4 +1,5 @@
-# Adventures in Full Text SearchSarah Allen (Mightyverse)
+# Adventures in Full Text Search
+## Sarah Allen (Mightyverse)
 ### 11:45am Thursday, 06/10/2010 
 
 What are the things that make full text search special?
